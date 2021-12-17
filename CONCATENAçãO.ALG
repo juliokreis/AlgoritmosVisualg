@@ -1,20 +1,22 @@
-Algoritmo "Concatenação"
+Algoritmo "Concatenaï¿½ï¿½o"
 
-// Descrição   : Operadores Aritméticos
-// Autor(a)    : Júlio Reis
+// Descriï¿½ï¿½o   : Operadores Aritmï¿½ticos
+// Autor(a)    : Jï¿½lio Reis
 // Data atual  : 15/12/2021
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 nome: caracter
 numero: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 escreva ("Digite o nome: ")
 leia (nome)
-escreva ("Digite o número: ")
+escreva ("Digite o nï¿½mero: ")
 leia (numero)
 
 escreval(nome, ": ", numero)
 
 Fimalgoritmo
+
+//RemoÃ§Ã£o de comemntarios

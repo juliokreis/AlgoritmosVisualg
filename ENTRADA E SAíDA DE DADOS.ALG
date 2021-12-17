@@ -1,15 +1,15 @@
-Algoritmo "Entrada e saída de dados"
+Algoritmo "Entrada e saï¿½da de dados"
 
-// Descrição   : Entrada e saída de dados
-// Autor(a)    : Júlio Reis
+// Descriï¿½ï¿½o   : Entrada e saï¿½da de dados
+// Autor(a)    : Jï¿½lio Reis
 // Data atual  : 15/12/2021
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    nome: caracter
    nota: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    escreva("Informe seu nome:")
    leia(nome)
    escreva("Informe sua idade:")
@@ -19,3 +19,5 @@ Inicio
    escreval("Nota: ",nota)
 
 Fimalgoritmo
+
+//remoÃ§Ã£o de comemntarios
